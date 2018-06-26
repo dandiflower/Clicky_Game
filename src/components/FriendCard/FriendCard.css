@@ -1,5 +1,5 @@
 .card {
-  background: #fff;
+  /* background: #fff; */
   border-radius: 2px;
   height: 325px;
   margin: 1rem;
@@ -9,14 +9,14 @@
   text-align: left;
 }
 
-.card > .img-container {
-  height: 60%;
+.img-container {
+  height: 100%;
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  /* background:#6CADDC; */
 }
 .card > .img-container > img {
-  width: 60%
+  width: 100%
 }
 
 .card > .content {

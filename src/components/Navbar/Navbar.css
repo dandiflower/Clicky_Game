@@ -1,0 +1,15 @@
+.navbar-brand {
+    float: left;
+    width: 100%;
+    text-align: right;
+    margin-right: 10%;
+}
+
+.intro {
+    width: 100%;
+    text-align: left;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 2rem;
+
+}

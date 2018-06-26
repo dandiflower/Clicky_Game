@@ -73,7 +73,7 @@ class App extends Component {
 
       
         <Wrapper>
-          <Title>Friends List</Title>
+          <Title>Try to beat the highest score by selecting the most images without selecting the same image twice!</Title>
           {this.state.friends.map(friend => (
             <FriendCard
               storeFriend={this.storeFriend}
