@@ -5,10 +5,10 @@ Here I've built a memory game with React. Select as many cards as possible witho
 ![demo](example.gif)
 
 ## Built With
-* [React](https://www.react.com/)
-* [Yarn](https://nodejs.org/en/)
-* [Bootstrap](https://getbootstrap.com/docs/4.1/components/dropdowns/)
-* [Heroku]
+* [React]
+* [Yarn]
+* [Bootstrap]
+* [Shuffle-array]
 
 ### Dependencies
 * "gh-pages": "^1.2.0"
